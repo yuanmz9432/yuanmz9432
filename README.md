@@ -1,3 +1,7 @@
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=yuanmz9432" />
+</div>
+
 - 👋 Hi, I’m @yuanmz9432
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
