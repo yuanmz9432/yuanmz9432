@@ -3,6 +3,11 @@ yuanmz9432/yuanmz9432 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+[中文](README.md) | [日本語](README.ja.md)
+
+---
+
+
 # 👋 你好，我是 Yuan
 
 欢迎来到我的 GitHub 主页！我是一名热爱开源的开发者，专注于AWS云服务应用和微服务架构相关技术。
